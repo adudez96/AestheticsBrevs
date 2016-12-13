@@ -1,0 +1,5 @@
+# Some stuff to ignore...
+minecraft_server.1.11.jar
+startmc
+.DS_Store
+*.zip

@@ -1,0 +1,36 @@
+[10:05:49] [Server thread/INFO]: Starting minecraft server version 1.11
+[10:05:49] [Server thread/INFO]: Loading properties
+[10:05:49] [Server thread/INFO]: Default game type: SURVIVAL
+[10:05:49] [Server thread/INFO]: Generating keypair
+[10:05:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:05:49] [Server thread/INFO]: Using default channel type
+[10:05:50] [Server thread/INFO]: Preparing level "world"
+[10:05:50] [Server thread/INFO]: Preparing start region for level 0
+[10:05:51] [Server thread/INFO]: Preparing spawn area: 22%
+[10:05:52] [Server thread/INFO]: Done (2.067s)! For help, type "help" or "?"
+[10:12:37] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@32e6e247[id=<null>,name=jyuey3k,properties={},legacy=false] (/168.1.6.46:46470): Took too long to log in
+[10:12:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@32e6e247[id=<null>,name=jyuey3k,properties={},legacy=false] (/168.1.6.46:46470) lost connection: Took too long to log in
+[10:12:40] [User Authenticator #1/INFO]: Disconnecting /168.1.6.46:46472: Failed to verify username!
+[10:12:40] [User Authenticator #1/ERROR]: Username 'jyuey3k' tried to join with an invalid session
+[10:12:40] [Server thread/INFO]: /168.1.6.46:46472 lost connection: Failed to verify username!
+[10:12:40] [User Authenticator #2/INFO]: UUID of player jyuey3k is b9cbf2db-1bcc-4efa-a38d-e07d8acc1800
+[10:13:52] [User Authenticator #3/INFO]: Disconnecting /168.1.6.46:46530: Failed to verify username!
+[10:13:52] [User Authenticator #3/ERROR]: Username 'jyuey3k' tried to join with an invalid session
+[10:13:52] [Server thread/INFO]: /168.1.6.46:46530 lost connection: Failed to verify username!
+[10:13:52] [User Authenticator #4/INFO]: UUID of player jyuey3k is b9cbf2db-1bcc-4efa-a38d-e07d8acc1800
+[10:13:52] [Server thread/INFO]: jyuey3k[/168.1.6.46:46540] logged in with entity id 275 at (-132.68548301754777, 88.0, 442.05434923187573)
+[10:13:52] [Server thread/INFO]: jyuey3k joined the game
+[10:13:58] [User Authenticator #5/INFO]: UUID of player jyuey3k is b9cbf2db-1bcc-4efa-a38d-e07d8acc1800
+[10:14:21] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5e1a3be1[id=b9cbf2db-1bcc-4efa-a38d-e07d8acc1800,name=jyuey3k,properties={textures=[com.mojang.authlib.properties.Property@69524590]},legacy=false] (/168.1.6.46:46550): Took too long to log in
+[10:14:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@5e1a3be1[id=b9cbf2db-1bcc-4efa-a38d-e07d8acc1800,name=jyuey3k,properties={textures=[com.mojang.authlib.properties.Property@69524590]},legacy=false] (/168.1.6.46:46550) lost connection: Took too long to log in
+[10:14:28] [Server thread/INFO]: jyuey3k lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[10:14:28] [Server thread/INFO]: jyuey3k left the game
+[10:15:33] [User Authenticator #6/INFO]: UUID of player jyuey3k is b9cbf2db-1bcc-4efa-a38d-e07d8acc1800
+[10:15:33] [Server thread/INFO]: jyuey3k[/168.1.6.46:46612] logged in with entity id 675 at (-132.68548301754777, 88.0, 442.05434923187573)
+[10:15:33] [Server thread/INFO]: jyuey3k joined the game
+[10:16:11] [Server thread/INFO]: jyuey3k fell from a high place
+[10:17:24] [Server thread/INFO]: jyuey3k lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[10:17:24] [Server thread/INFO]: jyuey3k left the game
+[10:19:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 33131ms behind, skipping 662 tick(s)
+[11:14:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3225147ms behind, skipping 64502 tick(s)
+[11:14:26] [Server Shutdown Thread/INFO]: Stopping server
