@@ -1,38 +1,30 @@
-[21:21:58] [Server thread/INFO]: Starting minecraft server version 1.11.2
-[21:21:58] [Server thread/INFO]: Loading properties
-[21:21:58] [Server thread/INFO]: Default game type: SURVIVAL
-[21:21:58] [Server thread/INFO]: Generating keypair
-[21:21:59] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:21:59] [Server thread/INFO]: Using epoll channel type
-[21:21:59] [Server thread/INFO]: Preparing level "world"
-[21:21:59] [Server thread/INFO]: Preparing start region for level 0
-[21:22:00] [Server thread/INFO]: Preparing spawn area: 15%
-[21:22:01] [Server thread/INFO]: Preparing spawn area: 97%
-[21:22:02] [Server thread/INFO]: Done (2.292s)! For help, type "help" or "?"
-[21:23:15] [User Authenticator #1/INFO]: UUID of player uraveragechum is eddd13db-0f61-482a-9192-0f95006e21ed
-[21:23:15] [Server thread/INFO]: uraveragechum[/192.168.0.106:37246] logged in with entity id 273 at (-191.9202503086468, 76.0, 478.6196424982645)
-[21:23:15] [Server thread/INFO]: uraveragechum joined the game
-[21:23:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2262ms behind, skipping 45 tick(s)
-[21:23:48] [Server thread/INFO]: [uraveragechum: Set own game mode to Creative Mode]
-[21:40:05] [Server thread/INFO]: [uraveragechum: Set own game mode to Survival Mode]
-[21:43:53] [Server thread/INFO]: uraveragechum has just earned the achievement [Cow Tipper]
-[21:47:38] [Server thread/INFO]: [uraveragechum: Set own game mode to Creative Mode]
-[22:55:05] [Server thread/INFO]: [uraveragechum: Set own game mode to Survival Mode]
-[22:56:25] [Server thread/INFO]: uraveragechum has just earned the achievement [Repopulation]
-[23:09:59] [Server thread/INFO]: [uraveragechum: Set own game mode to Creative Mode]
-[23:16:38] [Server thread/INFO]: [uraveragechum: Set own game mode to Survival Mode]
-[23:16:50] [Server thread/INFO]: uraveragechum lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[23:16:50] [Server thread/INFO]: uraveragechum left the game
-[23:16:57] [Server thread/INFO]: Stopping the server
-[23:16:57] [Server thread/INFO]: Stopping server
-[23:16:57] [Server thread/INFO]: Saving players
-[23:16:57] [Server thread/INFO]: Saving worlds
-[23:16:57] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[23:16:57] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[23:16:57] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[23:16:57] [Server Shutdown Thread/INFO]: Stopping server
-[23:16:57] [Server Shutdown Thread/INFO]: Saving players
-[23:16:57] [Server Shutdown Thread/INFO]: Saving worlds
-[23:16:57] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
-[23:16:57] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Nether
-[23:16:57] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/The End
+[02:53:37] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[02:53:37] [Server thread/INFO]: Loading properties
+[02:53:38] [Server thread/INFO]: Default game type: SURVIVAL
+[02:53:38] [Server thread/INFO]: Generating keypair
+[02:53:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:53:38] [Server thread/INFO]: Using epoll channel type
+[02:53:38] [Server thread/INFO]: Preparing level "world"
+[02:53:38] [Server thread/INFO]: Preparing start region for level 0
+[02:53:39] [Server thread/INFO]: Preparing spawn area: 0%
+[02:53:40] [Server thread/INFO]: Preparing spawn area: 39%
+[02:53:41] [Server thread/INFO]: Done (3.155s)! For help, type "help" or "?"
+[02:54:26] [User Authenticator #1/INFO]: UUID of player uraveragechum is eddd13db-0f61-482a-9192-0f95006e21ed
+[02:54:26] [Server thread/INFO]: uraveragechum[/192.168.0.106:38738] logged in with entity id 261 at (-194.05546358643738, 76.0, 477.68447628138574)
+[02:54:26] [Server thread/INFO]: uraveragechum joined the game
+[02:54:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2633ms behind, skipping 52 tick(s)
+[03:12:40] [Server thread/INFO]: [uraveragechum: Set own game mode to Creative Mode]
+[03:28:09] [Server thread/INFO]: [uraveragechum: Set own game mode to Survival Mode]
+[03:28:18] [Server thread/INFO]: uraveragechum lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:28:18] [Server thread/INFO]: uraveragechum left the game
+[03:28:24] [Server thread/INFO]: Stopping the server
+[03:28:24] [Server thread/INFO]: Stopping server
+[03:28:24] [Server thread/INFO]: Saving players
+[03:28:24] [Server thread/INFO]: Saving worlds
+[03:28:24] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[03:28:24] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[03:28:24] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[03:28:25] [Server Shutdown Thread/INFO]: Stopping server
+[03:28:25] [Server Shutdown Thread/INFO]: Saving players
+[03:28:25] [Server Shutdown Thread/INFO]: Saving worlds
+[03:28:25] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
