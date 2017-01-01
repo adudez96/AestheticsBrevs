@@ -1,16 +1,38 @@
-[00:34:06] [Server thread/INFO]: [uraveragechum: Set own game mode to Survival Mode]
-[00:35:13] [Server thread/INFO]: uraveragechum lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:35:13] [Server thread/INFO]: uraveragechum left the game
-[00:35:36] [Server thread/INFO]: Stopping the server
-[00:35:36] [Server thread/INFO]: Stopping server
-[00:35:36] [Server thread/INFO]: Saving players
-[00:35:36] [Server thread/INFO]: Saving worlds
-[00:35:36] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[00:35:36] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[00:35:36] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[00:35:36] [Server Shutdown Thread/INFO]: Stopping server
-[00:35:36] [Server Shutdown Thread/INFO]: Saving players
-[00:35:36] [Server Shutdown Thread/INFO]: Saving worlds
-[00:35:36] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
-[00:35:36] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Nether
-[00:35:36] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/The End
+[21:21:58] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[21:21:58] [Server thread/INFO]: Loading properties
+[21:21:58] [Server thread/INFO]: Default game type: SURVIVAL
+[21:21:58] [Server thread/INFO]: Generating keypair
+[21:21:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:21:59] [Server thread/INFO]: Using epoll channel type
+[21:21:59] [Server thread/INFO]: Preparing level "world"
+[21:21:59] [Server thread/INFO]: Preparing start region for level 0
+[21:22:00] [Server thread/INFO]: Preparing spawn area: 15%
+[21:22:01] [Server thread/INFO]: Preparing spawn area: 97%
+[21:22:02] [Server thread/INFO]: Done (2.292s)! For help, type "help" or "?"
+[21:23:15] [User Authenticator #1/INFO]: UUID of player uraveragechum is eddd13db-0f61-482a-9192-0f95006e21ed
+[21:23:15] [Server thread/INFO]: uraveragechum[/192.168.0.106:37246] logged in with entity id 273 at (-191.9202503086468, 76.0, 478.6196424982645)
+[21:23:15] [Server thread/INFO]: uraveragechum joined the game
+[21:23:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2262ms behind, skipping 45 tick(s)
+[21:23:48] [Server thread/INFO]: [uraveragechum: Set own game mode to Creative Mode]
+[21:40:05] [Server thread/INFO]: [uraveragechum: Set own game mode to Survival Mode]
+[21:43:53] [Server thread/INFO]: uraveragechum has just earned the achievement [Cow Tipper]
+[21:47:38] [Server thread/INFO]: [uraveragechum: Set own game mode to Creative Mode]
+[22:55:05] [Server thread/INFO]: [uraveragechum: Set own game mode to Survival Mode]
+[22:56:25] [Server thread/INFO]: uraveragechum has just earned the achievement [Repopulation]
+[23:09:59] [Server thread/INFO]: [uraveragechum: Set own game mode to Creative Mode]
+[23:16:38] [Server thread/INFO]: [uraveragechum: Set own game mode to Survival Mode]
+[23:16:50] [Server thread/INFO]: uraveragechum lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:16:50] [Server thread/INFO]: uraveragechum left the game
+[23:16:57] [Server thread/INFO]: Stopping the server
+[23:16:57] [Server thread/INFO]: Stopping server
+[23:16:57] [Server thread/INFO]: Saving players
+[23:16:57] [Server thread/INFO]: Saving worlds
+[23:16:57] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[23:16:57] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[23:16:57] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[23:16:57] [Server Shutdown Thread/INFO]: Stopping server
+[23:16:57] [Server Shutdown Thread/INFO]: Saving players
+[23:16:57] [Server Shutdown Thread/INFO]: Saving worlds
+[23:16:57] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
+[23:16:57] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Nether
+[23:16:57] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/The End
