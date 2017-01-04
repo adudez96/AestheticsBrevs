@@ -1,11 +1,17 @@
-[22:31:27] [Server thread/INFO]: Starting minecraft server version 1.11
-[22:31:27] [Server thread/INFO]: Loading properties
-[22:31:27] [Server thread/INFO]: Default game type: SURVIVAL
-[22:31:27] [Server thread/INFO]: Generating keypair
-[22:31:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:31:28] [Server thread/INFO]: Using default channel type
-[22:31:28] [Server thread/INFO]: Preparing level "world"
-[22:31:28] [Server thread/INFO]: Preparing start region for level 0
-[22:31:29] [Server thread/INFO]: Preparing spawn area: 34%
-[22:31:30] [Server thread/INFO]: Done (2.214s)! For help, type "help" or "?"
-[22:37:12] [Server Shutdown Thread/INFO]: Stopping server
+[22:40:21] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[22:40:21] [Server thread/INFO]: Loading properties
+[22:40:21] [Server thread/INFO]: Default game type: SURVIVAL
+[22:40:21] [Server thread/INFO]: Generating keypair
+[22:40:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:40:22] [Server thread/INFO]: Using default channel type
+[22:40:22] [Server thread/INFO]: Preparing level "world"
+[22:40:22] [Server thread/INFO]: Preparing start region for level 0
+[22:40:23] [Server thread/INFO]: Preparing spawn area: 27%
+[22:40:24] [Server thread/INFO]: Done (2.140s)! For help, type "help" or "?"
+[22:40:45] [User Authenticator #1/INFO]: UUID of player adudez96 is 2f5cde68-3eb3-473d-ad05-e59b3ecec4cb
+[22:40:45] [Server thread/INFO]: adudez96[/192.168.0.8:61844] logged in with entity id 267 at (-192.42093773385983, 76.0, 478.3437905580687)
+[22:40:45] [Server thread/INFO]: adudez96 joined the game
+[22:40:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2635ms behind, skipping 52 tick(s)
+[22:43:31] [Server thread/INFO]: adudez96 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:43:31] [Server thread/INFO]: adudez96 left the game
+[22:43:39] [Server Shutdown Thread/INFO]: Stopping server
