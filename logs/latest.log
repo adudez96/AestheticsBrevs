@@ -1,5 +1,4 @@
-[19:29:35] [Server thread/INFO]: Starting minecraft server version 1.11.2
-[19:29:35] [Server console handler/ERROR]: Exception handling console input
+[20:41:17] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: The handle is invalid
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_101]
 	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_101]
@@ -13,20 +12,41 @@ java.io.IOException: The handle is invalid
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_101]
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_101]
 	at lh$2.run(SourceFile:95) [minecraft_server.1.11.2.jar:?]
-[19:29:35] [Server thread/INFO]: Loading properties
-[19:29:35] [Server thread/INFO]: Default game type: SURVIVAL
-[19:29:35] [Server thread/INFO]: Generating keypair
-[19:29:35] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:29:35] [Server thread/INFO]: Using default channel type
-[19:29:35] [Server thread/INFO]: Preparing level "world"
-[19:29:35] [Server thread/INFO]: Preparing start region for level 0
-[19:29:36] [Server thread/INFO]: Preparing spawn area: 82%
-[19:29:37] [Server thread/INFO]: Done (1.222s)! For help, type "help" or "?"
-[19:51:47] [Server thread/INFO]: Stopping the server
-[19:51:47] [Server thread/INFO]: Stopping server
-[19:51:47] [Server thread/INFO]: Saving players
-[19:51:47] [Server thread/INFO]: Saving worlds
-[19:51:47] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[19:51:47] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[19:51:47] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[19:51:47] [Server Shutdown Thread/INFO]: Stopping server
+[20:41:17] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[20:41:17] [Server thread/INFO]: Loading properties
+[20:41:17] [Server thread/INFO]: Default game type: SURVIVAL
+[20:41:17] [Server thread/INFO]: Generating keypair
+[20:41:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:41:17] [Server thread/INFO]: Using default channel type
+[20:41:17] [Server thread/INFO]: Preparing level "world"
+[20:41:17] [Server thread/INFO]: Preparing start region for level 0
+[20:41:18] [Server thread/INFO]: Preparing spawn area: 89%
+[20:41:18] [Server thread/INFO]: Done (1.352s)! For help, type "help" or "?"
+[20:41:25] [User Authenticator #1/INFO]: UUID of player uraveragechum is eddd13db-0f61-482a-9192-0f95006e21ed
+[20:41:25] [Server thread/INFO]: uraveragechum[/122.106.85.226:50898] logged in with entity id 240 at (-126.83258710555454, 93.0, 438.0049194371194)
+[20:41:25] [Server thread/INFO]: uraveragechum joined the game
+[21:02:00] [User Authenticator #2/INFO]: UUID of player adudez96 is 2f5cde68-3eb3-473d-ad05-e59b3ecec4cb
+[21:02:00] [Server thread/INFO]: adudez96[/114.75.78.16:62655] logged in with entity id 12154 at (-192.16320008596784, 76.0, 478.101448644118)
+[21:02:00] [Server thread/INFO]: adudez96 joined the game
+[21:04:59] [Server thread/WARN]: uraveragechum moved too quickly! 4.603899244273919,1.0,9.027167388283601
+[21:05:33] [Server thread/INFO]: uraveragechum lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:05:33] [Server thread/INFO]: uraveragechum left the game
+[21:05:40] [User Authenticator #3/INFO]: UUID of player uraveragechum is eddd13db-0f61-482a-9192-0f95006e21ed
+[21:05:40] [Server thread/INFO]: uraveragechum[/122.106.85.226:51258] logged in with entity id 15528 at (-126.47038274943534, 94.0, 450.76663370048493)
+[21:05:40] [Server thread/INFO]: uraveragechum joined the game
+[21:16:20] [Server thread/INFO]: uraveragechum lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:16:20] [Server thread/INFO]: uraveragechum left the game
+[21:18:51] [Server thread/INFO]: adudez96 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:18:51] [Server thread/INFO]: adudez96 left the game
+[22:19:50] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[22:19:53] [Server thread/INFO]: Stopping the server
+[22:19:53] [Server thread/INFO]: Stopping server
+[22:19:53] [Server thread/INFO]: Saving players
+[22:19:53] [Server thread/INFO]: Saving worlds
+[22:19:53] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[22:19:53] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[22:19:53] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[22:19:53] [Server Shutdown Thread/INFO]: Stopping server
+[22:19:53] [Server Shutdown Thread/INFO]: Saving players
+[22:19:53] [Server Shutdown Thread/INFO]: Saving worlds
+[22:19:53] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
